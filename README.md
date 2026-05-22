@@ -74,23 +74,23 @@ me.say_hi()
 </div>
 
 ---
-
+ 
 ## 📈 GitHub Stats
-
+ 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZainalFattah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainalFattah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
+<!-- Summary Cards - more reliable alternative -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZainalFattah&theme=tokyonight" width="100%" />
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZainalFattah&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZainalFattah&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZainalFattah&theme=tokyonight" width="32%" />
 </div>
-
 <div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=ZainalFattah&theme=tokyonight&hide_border=true&background=0D1117&dates=43BCCD)](https://git.io/streak-stats)
-
+ 
 </div>
-
 ---
+
 
 ## 🌱 Saat Ini Sedang Belajar / Currently Learning
 
