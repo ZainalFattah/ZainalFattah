@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 Tentang Saya / About Me
+## Tentang Saya / About Me
 
 ```python
 class ZainalFattah:
@@ -33,7 +33,7 @@ me.say_hi()
 
 ---
 
-## 🚀 Minat & Fokus / Interests & Focus
+## Minat & Fokus / Interests & Focus
 
 <div align="center">
 
@@ -45,7 +45,7 @@ me.say_hi()
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 <div align="center">
 
@@ -85,31 +85,9 @@ me.say_hi()
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZainalFattah&theme=tokyonight" width="32%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZainalFattah&theme=tokyonight" width="32%" />
 </div>
-
+</br>
 <div align="center">
 ![GitHub Streak](https://streak-stats.demolab.com?user=ZainalFattah&theme=tokyonight&hide_border=true&background=0D1117&dates=43BCCD)
-</div>
-
----
-
-
-## 🌱 Saat Ini Sedang Belajar / Currently Learning
-
-<div align="center">
-
-```
-🗺️  Roadmap 2025
-─────────────────────────────────────────────
- ✅  Python Fundamentals
- ✅  Data Analysis with Pandas & NumPy
- 🔄  Machine Learning with Scikit-Learn
- 🔄  Data Visualization & Storytelling
- ⏳  Deep Learning & Neural Networks
- ⏳  MLOps & Model Deployment
- ⏳  Natural Language Processing (NLP)
-─────────────────────────────────────────────
-```
-
 </div>
 
 ---
