@@ -85,10 +85,11 @@ me.say_hi()
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZainalFattah&theme=tokyonight" width="32%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZainalFattah&theme=tokyonight" width="32%" />
 </div>
+
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=ZainalFattah&theme=tokyonight&hide_border=true&background=0D1117&dates=43BCCD)](https://git.io/streak-stats)
- 
+![GitHub Streak](https://streak-stats.demolab.com?user=ZainalFattah&theme=tokyonight&hide_border=true&background=0D1117&dates=43BCCD)
 </div>
+
 ---
 
 
