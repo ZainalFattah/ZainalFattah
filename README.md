@@ -75,7 +75,7 @@ me.say_hi()
 
 ---
  
-## 📈 GitHub Stats
+## GitHub Stats
  
 <div align="center">
 <!-- Summary Cards - more reliable alternative -->
@@ -92,7 +92,7 @@ me.say_hi()
 
 ---
 
-## 🤝 Mari Berkolaborasi! / Let's Collaborate!
+## Mari Berkolaborasi! / Let's Collaborate!
 
 <div align="center">
 
@@ -111,7 +111,7 @@ Feel free to reach out!*
 
 ---
 
-## 💬 Bahasa / Languages
+## Bahasa / Languages
 
 <div align="center">
 
@@ -129,6 +129,6 @@ Feel free to reach out!*
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" />
 
-*"Data is the new oil, but insight is the refinery."* 🔥
+*"Data is the new oil, but insight is the refinery."* 
 
 </div>
