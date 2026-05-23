@@ -25,7 +25,7 @@ class ZainalFattah:
         self.open_to    = "Collaboration & Open Source Projects"
 
     def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together 🚀")
+        print("Thanks for stopping by! Let's build something amazing together")
 
 me = ZainalFattah()
 me.say_hi()
@@ -37,7 +37,7 @@ me.say_hi()
 
 <div align="center">
 
-| 🤖 AI & Machine Learning | 📊 Data Science | 🐍 Python | 🧠 Deep Learning |
+| AI & Machine Learning | Data Science |  Python |  Deep Learning |
 |:---:|:---:|:---:|:---:|
 | Membangun model cerdas | Analisis & visualisasi data | Bahasa utama saya | Neural networks & lebih |
 
@@ -114,7 +114,7 @@ Feel free to reach out!*
 
 <div align="center">
 
-🇮🇩 **Bahasa Indonesia** — Native &nbsp;|&nbsp; 🌍 **English** — Conversational &nbsp;|&nbsp; ☕ **Jawa (Javanese)** — Native
+ **Bahasa Indonesia** — Native &nbsp;|&nbsp;  **English** — Conversational &nbsp;|&nbsp;  **Jawa (Javanese)** — Native
 
 </div>
 
