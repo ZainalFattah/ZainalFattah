@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Zainal%20Fattah&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Machine%20Learning&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=43BCCD&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Zainal+Fattah+👋;Python+%7C+AI+%7C+ML+%7C+Data+Science;Learning+every+day+%F0%9F%9A%80;Open+to+Collaborate+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=43BCCD&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Zainal+Fattah+;Python+%7C+AI+%7C+ML+%7C+Data+Science;Learning+every+day+%F0%9F%9A%80;Open+to+Collaborate+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 </div>
 
